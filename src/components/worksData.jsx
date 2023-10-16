@@ -2,6 +2,20 @@
 
 export const worksData = [
     {
+        title: 'Food Recipie App',
+        technologies: 'HTML5, CSS3, REACT JS, REACT_BOOTSTRAP, API FETCHING',
+        live_demo: 'https://abhishek7356.github.io/Food-delivery-React/',
+        repo: 'https://github.com/Abhishek7356/Food-delivery-React',
+        background: 'https://th.bing.com/th/id/OIP.arPdYY1cm1ba_a9C6NEIgQHaE8?pid=ImgDet&w=1000&h=667&rs=1',
+    },
+    {
+        title: 'Restaurent App',
+        technologies: 'HTML5, CSS3, REACT JS, REACT_BOOTSTRAP, API FETCHING, JSON SERVER ',
+        live_demo: 'https://restaurentapp-abhishekks.netlify.app/',
+        repo: 'https://github.com/Abhishek7356/Restaurent-frontend-react',
+        background: 'https://wallpaperaccess.com/full/3239444.jpg',
+    },
+    {
         title: 'Random Quote Generator',
         technologies: 'HTML5, CSS3, REACT JS, BOOTSTRAP5, API FETCHING ',
         live_demo: 'https://abhishek7356.github.io/Quote-generator/',
@@ -34,7 +48,7 @@ export const worksData = [
         technologies: 'HTML5, CSS3, JAVASCRIPT, BOOTSTRAP5, LOCAL STORAGE',
         live_demo: 'https://abhishek7356.github.io/Employee-Management-system/',
         repo: 'https://github.com/Abhishek7356/Employee-Management-system',
-        background: 'https://th.bing.com/th/id/OIP.arPdYY1cm1ba_a9C6NEIgQHaE8?pid=ImgDet&w=1000&h=667&rs=1',
+        background: 'https://th.bing.com/th/id/OIP.L9lfvmpS3gFsbDYtIurQxgHaE8?pid=ImgDet&rs=1',
     },
     {
         title: 'Movie Store',
@@ -49,7 +63,7 @@ export const worksData = [
         technologies: 'HTML5, CSS3, BOOTSTRAP5, JAVASCRIPT',
         live_demo: 'https://abhishek7356.github.io/Todo-list/',
         repo: 'https://github.com/Abhishek7356/Todo-list',
-        background: 'https://wallpaperaccess.com/full/3239444.jpg',
+        background: 'https://getwallpapers.com/wallpaper/full/3/9/e/490037.jpg',
     },
     {
         title: 'Calculator',

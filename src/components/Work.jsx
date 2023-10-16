@@ -12,7 +12,7 @@ function Work({ lightMode }) {
         if (key < maxWork) {
             return (
                 <motion.div initial={{ y: '100px', opacity: '0' }} whileInView={{ y: '0', opacity: '1' }} viewport={{ once: true }} transition={{ duration: '.20', delay: '.60' }} style={{ backgroundImage: `url(${item.background})` }} className=' pt-5 workdiv px-5 bg-[#00000041] pb-3 flex flex-col items-center justify-center gap-3'>
-                    <div className=' bg-[#00000060] py-2 rounded-md hover:bg-[#00000090] duration-200'>
+                    <div className=' bg-[#00000080] py-2 rounded-md hover:bg-[#00000090] duration-200'>
                         <h3 className='text-2xl text-center font-bold text-white'>{item.title}</h3>
                         <h6 className='text-center text-white'>Using :</h6>
                         <h6 className='text-center text-white'>{item.technologies}</h6>

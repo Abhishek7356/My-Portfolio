@@ -10,9 +10,8 @@ function About({ lightMode }) {
                     <motion.h2 initial={{ y: '100px', opacity: '0' }} whileInView={{ y: '0px', opacity: '1' }} transition={{ duration: '.20' }} viewport={{ once: true }} className='text-3xl md:text-4xl  font-bold border-b-4 border-pink-600'>About</motion.h2>
                     <motion.h2 initial={{ y: '100px', opacity: '0' }} whileInView={{ y: '0px', opacity: '1' }} transition={{ duration: '.20', delay: '.20' }} viewport={{ once: true }} className='text-start md:text-4xl  md:text-end text-3xl font-bold pt-[20px]'>Hi. I'm Abhishek, nice to meet you.Please take a look around.</motion.h2>
                 </div>
-                <div className='md:w-[50%] w-[100%] pt-[20px] md:pt-[62px]'>
-                    <motion.p initial={{ y: '100px', opacity: '0' }} whileInView={{ y: '0px', opacity: '1' }} transition={{ duration: '.20', delay: '.20' }} viewport={{ once: true }}>ME(A)RN Stack Developer with a strong foundation in developing end-to-end web applications. Contributed to a project that
-                        increased website traffic by 20%. Known for quick learning and adaptability,
+                <div className='md:w-[50%] w-[100%] pt-[20px] md:pt-[70px]'>
+                    <motion.p initial={{ y: '100px', opacity: '0' }} whileInView={{ y: '0px', opacity: '1' }} transition={{ duration: '.20', delay: '.20' }} viewport={{ once: true }}>ME(A)RN Stack Developer with a strong foundation in developing end-to-end web applications. Known for quick learning and adaptability,
                         demonstrated by mastering new programming languages within weeks. Gained experience in working with
                         agile development teams.</motion.p>
                 </div>
