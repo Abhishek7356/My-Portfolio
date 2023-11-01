@@ -2,6 +2,13 @@
 
 export const worksData = [
     {
+        title: 'Shoppy App',
+        technologies: 'REDUX TOOLKIT, REACT REDUX, REACT JS, REACT_BOOTSTRAP, MATERIAL UI, API FETCHING',
+        live_demo: 'https://abhishekks-shoppy-app.netlify.app/',
+        repo: 'https://github.com/Abhishek7356/E-Commerse-app',
+        background: 'https://th.bing.com/th/id/OIP.-mBaCBsYNvkDru3nL7c5WQHaE8?pid=ImgDet&w=930&h=620&rs=1',
+    },
+    {
         title: 'Food Recipie App',
         technologies: 'HTML5, CSS3, REACT JS, REACT_BOOTSTRAP, API FETCHING',
         live_demo: 'https://abhishek7356.github.io/Food-delivery-React/',
